@@ -43,4 +43,4 @@ const AddTask = ( {onAdd} ) => {
     );
 }
 
-export default AddTask
+export default AddTask;
